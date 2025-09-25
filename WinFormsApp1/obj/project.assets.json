@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\minesweeper test\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\Source\\Repos\\minesweeper-test\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\jacob\\source\\repos\\minesweeper test\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\jacob\\Source\\Repos\\minesweeper-test\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob\\source\\repos\\minesweeper test\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\jacob\\Source\\Repos\\minesweeper-test\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

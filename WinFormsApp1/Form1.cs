@@ -7,7 +7,7 @@ namespace WinFormsApp1
     public partial class Form1 : Form
     {
         private const int GridSize = 15;
-        private const int BombCount = 30;
+        private const int BombCount = 20;
         private const int CellSize = 30;
         private const int GridTopOffset = 50;
 
@@ -136,7 +136,7 @@ namespace WinFormsApp1
                     if (Positions[x, y] == 9)
                     {
                         btn.Text = "B";
-                        MessageBox.Show("Game Over!");
+                        MessageBox.Show("Just one more try!");
                         RevealAllBombs();
                     }
                     else
