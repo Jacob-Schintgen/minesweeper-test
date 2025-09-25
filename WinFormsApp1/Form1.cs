@@ -2,6 +2,11 @@
 using System.Drawing;
 using System.Windows.Forms;
 
+// NOTE : This is a simple implementation of Minesweeper in C# using Windows Forms.
+
+// TODO : Add features like timer, score tracking, difficulty levels, and better graphics.
+// TODO : Look into using a more efficient data structure for the grid and bomb placements, and avoid bombs on first click.
+
 namespace WinFormsApp1
 {
     public partial class Form1 : Form
