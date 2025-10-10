@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\minesweeper test\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\jacob\\source\\repos\\minesweeper test\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\jacob\\source\\repos\\minesweeper test\\WinFormsApp1\\Minesweeper Main.csproj",
+      "projectName": "Minesweeper Main",
+      "projectPath": "C:\\Users\\jacob\\source\\repos\\minesweeper test\\WinFormsApp1\\Minesweeper Main.csproj",
       "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jacob\\source\\repos\\minesweeper test\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
@@ -76,7 +76,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

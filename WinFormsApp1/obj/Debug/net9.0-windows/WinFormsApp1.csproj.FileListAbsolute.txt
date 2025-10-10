@@ -14,3 +14,4 @@ C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Debug\net9.0-windo
 C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.pdb
 C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Debug\net9.0-windows\ref\WinFormsApp1.dll
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Debug\net9.0-windows\WinFormsApp1.sourcelink.json

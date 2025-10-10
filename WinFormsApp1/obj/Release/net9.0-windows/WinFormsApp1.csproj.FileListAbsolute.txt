@@ -1,0 +1,17 @@
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\bin\Release\net9.0-windows\WinFormsApp1.exe
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\bin\Release\net9.0-windows\WinFormsApp1.deps.json
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\bin\Release\net9.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\bin\Release\net9.0-windows\WinFormsApp1.dll
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\bin\Release\net9.0-windows\WinFormsApp1.pdb
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.Minesweeper.resources
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.dll
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\refint\WinFormsApp1.dll
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.pdb
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\jacob\source\repos\minesweeper test\WinFormsApp1\obj\Release\net9.0-windows\ref\WinFormsApp1.dll

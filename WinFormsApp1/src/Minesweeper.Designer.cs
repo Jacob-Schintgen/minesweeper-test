@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp1
 {
-    partial class Form1
+    partial class Minesweeper
     {
         /// <summary>
         ///  Required designer variable.
@@ -36,7 +36,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Name = "Form1";
-            Text = "Application";
+            Text = "Minesweeper Game";
             ResumeLayout(false);
         }
 
